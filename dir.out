@@ -1,0 +1,13 @@
+ Volume in drive D is DATA
+ Volume Serial Number is 18C5-F42C
+
+ Directory of d:\DATA\gdevelek\RETRAIN\VAGRANT\BOOK CODE\Chapter 2\2.5 Sharing Vagrant guest folders with the host
+
+24/12/2017  23:36    <DIR>          .
+24/12/2017  23:36    <DIR>          ..
+24/12/2017  23:36                 0 dir.out
+24/12/2017  17:57                22 README.md
+18/02/2015  10:53               488 Vagrantfile
+23/12/2017  18:52    <DIR>          vagrantsite
+               3 File(s)            510 bytes
+               3 Dir(s)  355,526,819,840 bytes free
